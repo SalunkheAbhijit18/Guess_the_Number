@@ -7,9 +7,9 @@ This is a simple Guess The Number game built using HTML, CSS, and JavaScript. Th
 
 Features:
      
-     Randomly generated number between 1 and 100.
-     Limited number of attempts to make the game challenging.
-     Simple and intuitive user interface.
+> Randomly generated number between 1 and 100.
+> Limited number of attempts to make the game challenging.
+> Simple and intuitive user interface.
 
 
 
